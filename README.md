@@ -18,4 +18,4 @@ A fault classifier that reaches **0.99 macro-F1** in-sample falls to **0.33** on
 
 **Tools:** Python · pandas · scikit-learn · SHAP · Streamlit · Plotly · Git
 
-📫 hrsl.patel@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/harshil-patel-berlin) · hrsl.patel@gmail.com
