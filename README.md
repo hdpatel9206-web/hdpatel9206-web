@@ -4,7 +4,7 @@ I build machine-learning models for smart buildings that are meant to survive de
 
 **Focus:** HVAC fault detection · explainable ML (SHAP) · data drift & cross-building generalization · building automation / BMS data
 
-🎓 MSc Smart Building Technologies, bbw Hochschule Berlin (2026)
+🎓 MSc Sustainability and Smart Building Technology, bbw Hochschule Berlin (2026)
 📍 Berlin, Germany. Open to roles in smart-building analytics and energy ML, and to research collaboration.
 
 ---
